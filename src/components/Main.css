@@ -1,0 +1,23 @@
+.Main{
+  color:white
+}
+
+.Main_paragraph{
+  padding:50px;
+}
+.Main_pottery_examples{
+  margin:50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.Main_individual_container img{
+  width:300px;
+  height:400px;
+  border-radius:15px;
+}
+
+.Main_individual_container :hover{
+  opacity:.7;
+}
+

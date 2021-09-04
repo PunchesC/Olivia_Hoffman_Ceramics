@@ -1,0 +1,26 @@
+.Title_container{
+  background-color: rgb(255, 228, 196,.7);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+}
+ul{
+  list-style-type:none;
+}
+
+.Navigation ul{
+  display:flex;
+  
+
+}
+.Navigation ul li{
+  padding:20px;
+}
