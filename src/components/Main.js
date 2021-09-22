@@ -16,7 +16,7 @@ function Main(){
 Local artist and facilitator of the Arte Sentido method, Javier Hernan Rubinstein explains, “When you come into contact with clay a dialogue takes place. As in every dialogue, you listen, ask and answer but you do it in your own language—by touching—you tell the clay what you feel and what you think by squeezing, caressing and playing ... The external vision is silenced, allowing a space of self-knowledge to open.”</p>
 
       </div>
-      <div className="Main_pottery_examples">
+      {/* <div className="Main_pottery_examples">
         <div className="Main_individual_container">
         <img src={Mug1} />
         </div>
@@ -27,7 +27,7 @@ Local artist and facilitator of the Arte Sentido method, Javier Hernan Rubinstei
         <img src={Vase1} />
         </div>
 
-      </div>
+      </div> */}
     </div>
   )
 }
